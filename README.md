@@ -1,2 +1,3 @@
 # Week 3 - Django
-    relearn
+    - timestamp: `53:04`
+    - relearn
