@@ -1,2 +1,2 @@
-# Week 0 - HTML and CSS
-`timestamp: DONE`
+# Week 1 - Git
+    already know this lmao
